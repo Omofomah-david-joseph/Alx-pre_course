@@ -1,4 +1,4 @@
 My First Readme 
-mind-blowing to deal with Codes.
+it's mind-blowing dealing with Codes.
 Technology is bae
 
