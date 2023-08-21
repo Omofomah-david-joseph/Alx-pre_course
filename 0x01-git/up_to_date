@@ -1,0 +1,5 @@
+git log --oneline
+git fetch
+git log --oneline
+git pull
+git log --oneline
